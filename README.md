@@ -92,4 +92,7 @@ else:
     print("No results found for the query.")
 ```
 **Output:**<br>
+<img width="1426" height="320" alt="image" src="https://github.com/user-attachments/assets/df1d8083-5601-4381-a43d-860ff53da460" />
+
 **Result:**
+ Information Retrieval Using Boolean Model in Python is implemented.
